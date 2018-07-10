@@ -1,271 +1,155 @@
-Access,Access
-Adobe,Adobe
-Adobe Creative Suite,Adobe Creative Suite
-After Effects,After Effects
-Angular,Angular
-AngularJS,AngularJS
-Ansible,Ansible
-Apache,Apache
-AppEngine,AppEngine
-Axure,Axure
-Balsamiq,Balsamiq
-C,C
-C#,C#
-C++,C++
-Capistrano,Capistrano
-Chartlist,Chartlist
-Compute Engine,Compute Engine
-CRM(customer relationship managment),CRM
-CRM(customer relationship managment),customer relationship management
-D3(data driven documents),D3
-D3(data driven documents),data driven documents
-Django,Django
-Django python framework,Django python framework
-Django Rest Framework,Django Rest Framework
-Docker,Docker
-DOM(Document object model),DOM
-DOM(Document object model),Document object model
-Drupal,Drupal
-Excel VBA Programming,Excel VBA Programming
-Facebook,Facebook
-Figma,Figma
-Framer,Framer
-Git,Git
-Google Analytics,Google Analytics
-Google Cloud,Google Cloud
-GraphQL,GraphQL
-Gulp,Gulp
-Handoff,Handoff
-HTML,HTML
-HTML5,HTML5
-Illustrator,Illustrator
-InDesign,InDesign
-Instagram,Instagram
-InVision,InVision
-Java,Java
-JavaScript,JavaScript
-Jekyll,Jekyll
-JQuery,JQuery
-JS,JS
-JSDoc,JSDoc
-LAMP,LAMP
-LinkedIn,LinkedIn
-Low-Level computing,Low-Level computing
-Lucene/Solr,Lucene/Solr
-Marvel,Marvel
-Microsoft Office,Microsoft Office
-MongoDB,MongoDB
-MS office,MS office
-MySQL,MySQL
-NGINX,NGINX
-Node,Node
-Omnigraffle,Omnigraffle
-Oracle,Oracle
-Photoshop,Photoshop
-PHP,PHP
-Postgres,Postgres
-PostgreSQL,PostgreSQL
-PowerPoint,PowerPoint
-Principle,Principle
-Python,Python
-React,React
-React Native,React Native
-Redis,Redis
-RESTful,RESTful
-RESTful APIs,RESTful APIs
-Ruby,Ruby
-Ruby on Rails,Ruby on Rails
-RubyCS,RubyCS
-SaaS,SaaS
-SASS,SASS
-Scala,Scala
-SharePoint,SharePoint
-Sitecore,Sitecore
-Sketch,Sketch
-SQL,SQL
-SQL Server,SQL Server
-SVG,SVG
-Swift,Swift
-TauCharts,TauCharts
-TDD,TDD
-Twitter,Twitter
-VFX,VFX
-Vue,Vue
-Webpack,Webpack
-WordPress,WordPress
-XML,XML
-Zeplin,Zeplin
-LESS,LESS
-Bachelor's degree,Bachelor's degree
-BS,BS
-CS,CS
-English,English
-Master degree,Master degree
-Continuous Integration,Continuous Integration
-CSS,CSS
-CSS3,CSS3
-JSON,JSON
-backend,backend
-.NET,.NET
-A/B,A/B
-A/V,A/V
-accessibility,accessibility
-AEM,AEM
-Agile,Agile
-AI,AI
-analytics,analytics
-Android,Android
-animation,animation
-APIs,APIs
-application architectures,application architectures
-Applications Manager,Applications Manager
-AR,AR
-Avocode,Avocode
-AWS,AWS
-batch processing ,batch processing 
-BI(Business Intelligence),BI
-BI(Business Intelligence),Business Intelligence
-Bootstrap,Bootstrap
-cloud computing,cloud computing
-CMS(content management system),CMS
-CMS(content management system),content management system
-coding,coding
-command line,command line
-communication protocols,communication protocols
-communication skills,communication skills
-composition,composition
-computer programming,computer programming
-content management systems,content management systems
-content management workflow,content management workflow
-cross-browser,cross-browser
-customer experience,customer experience
-Customer Relationship Management,Customer Relationship Management
-data communication,data communication
-data processing,data processing
-data visualization,data visualization
-Database,Database
-database administration,database administration
-database architecture,database architecture
-datastore,datastore
-defining project requirements,defining project requirements
-deploy code,deploy code
-design research,design research
-Design systems,Design systems
-developer,developer
-digital channels,digital channels
-digital communication,digital communication
-digital design,digital design
-digital experiences,digital experiences
-digital innovations,digital innovations
-digital marketing,digital marketing
-digital mediums,digital mediums
-digital platforms,digital platforms
-dispatching,dispatching
-distributed systems,distributed systems
-document databases,document databases
-e2e,e2e
-email campaign,email campaign
-email marketing,email marketing
-error-free copy,error-free copy
-experience design,experience design
-experimental biology,experimental biology
-file systems,file systems
-frameworks,frameworks
-Front end web design,Front end web design
-full-stack developer,full-stack developer
-Graphic design,Graphic design
-graphs,graphs
-hardware,hardware
-hierarchy,hierarchy
-highly experienced,highly experienced
-hosting infrastructure,hosting infrastructure
-image/video rendering,image/video rendering
-infographics,infographics
-Interactive Design,Interactive Design
-iOS,iOS
-iOS apps,iOS apps
-iOS engineer,iOS engineer
-lead generation,lead generation
-leadership,leadership
-Linux,Linux
-manage,manage
-Managing digital projects,Managing digital projects
-managing projects,managing projects
-Math,Math
-mentoring,mentoring
-mobile applications,mobile applications
-motion graphics,motion graphics
-computer networking,computer networking
-object-oriented design,object-oriented design
-Object-oriented programming,Object-oriented programming
-page performance,page performance
-persona-based marketing,persona-based marketing
-personalization,personalization
-print design,print design
-processing data,processing data
-product design,product design
-Programmer Analyst,Programmer Analyst
-programming,programming
-progressive enhancement,progressive enhancement
-project management,project management
-prototyping,prototyping
-QA,QA
-relational database,relational database
-research,research
-responsive design,responsive design
-robotics,robotics
-scoping projects,scoping projects
-scripting,scripting
-segmentation,segmentation
-sensitive information,sensitive information
-SEO,SEO
-server,server
-shell,shell
-social,social
-social aptitudes,social aptitudes
-social media,social media
-sockets,sockets
-software,software
-software development,software development
-Software Engineer,Software Engineer
-Source code management,Source code management
-Source Control,Source Control
-speed optimization,speed optimization
-stack,stack
-storyboards,storyboards
-targeting,targeting
-Technical Lead,Technical Lead
-technical leadership role,technical leadership role
-technology consultant,technology consultant
-templates,templates
-templating,templating
-test-driven development,test-driven development
-threads,threads
-time management,time management
-typography,typography
-UI,UI
-UI/UX,UI/UX
-unit testing,unit testing
-Unix,Unix
-User Experience,User Experience
-user interaction patterns,user interaction patterns
-user interface design,user interface design
-UX,UX
-UX Pin,UX Pin
-vendor management,vendor management
-version control systems,version control systems
-visualization,visualization
-WCAG,WCAG
-web,web
-web analytics,web analytics
-web application,web application
-Web Developers,Web Developers
-web development,web development
-web platforms,web platforms
-web production,web production
-web-based applications,web-based applications
-Website Management,Website Management
-wireframes,wireframes
-Wireframing,Wireframing
-workflow,workflow
-writing code,writing code
+Skill Name,,I Have It
+A/B,,FALSE
+AI,,FALSE
+APIs,,TRUE
+AR,,
+AWS,,
+Access,,TRUE
+Adobe,,
+After Effects,,
+Agile,,
+Android,,
+Angular,,
+AngularJS,,
+Ansible,,
+Apache,,
+BI,,
+BS,,TRUE
+Bachelor's degree,,TRUE
+Bootstrap,,
+Business Intelligence,,
+C,,TRUE
+C#,,
+C++,,
+CMS,,
+CRM,,
+CS,,
+CSS,,
+CSS3,,
+Continuous Integration,,
+Customer Relationship Management,,
+D3,,
+Database,,TRUE
+Django,,
+Django Rest Framework,,
+Docker,,
+English,,TRUE
+Facebook,,
+Git,,
+Google Analytics,,
+Google Cloud,,
+GraphQL,,
+Gulp,,
+HTML,,
+HTML5,,
+Illustrator,,
+Instagram,,
+JQuery,,
+JS,,
+JSON,,
+Java,,
+JavaScript,,
+LAMP,,
+LinkedIn,,
+Linux,,
+Math,,
+Microsoft Office,,TRUE
+MongoDB,,
+MySQL,,
+NET,,
+NGINX,,
+Node,,
+Oracle,,
+PHP,,
+Photoshop,,
+PostgreSQL,,
+Postgres,,
+PowerPoint,,
+Python,,TRUE
+QA,,
+RESTful,,
+RESTful APIs,,
+React,,
+React Native,,
+Redis,,
+Ruby,,
+Ruby on Rails,,
+SASS,,
+SEO,,
+SQL,,
+SQL Server,,
+SVG,,
+SaaS,,
+Scala,,
+SharePoint,,
+Sitecore,,
+Sketch,,
+Software Engineer,,
+Swift,,
+TDD,,
+Technical Lead,,
+Twitter,,
+UI,,
+UX,,
+Unix,,
+User Experience,,
+Vue,,
+Web Developers,,
+Webpack,,
+WordPress,,
+XML,,
+accessibility,,
+analytics,,
+backend,,
+cloud computing,,
+coding,,TRUE
+command line,,
+communication skills,,TRUE
+content management system,,
+customer experience,,
+data processing,,
+data visualization,,
+developer,,
+digital marketing,,
+distributed systems,,
+experience design,,
+frameworks,,
+full-stack developer,,
+graphs,,TRUE
+hardware,,
+hierarchy,,
+highly experienced,,
+iOS,,
+iOS apps,,
+iOS engineer,,
+leadership,,
+managing projects,,
+mentoring,,
+mobile applications,,
+personalization,,
+product design,,TRUE
+programming,,TRUE
+project management,,
+prototyping,,
+relational database,,TRUE
+research,,TRUE
+robotics,,
+scripting,,
+segmentation,,
+sensitive information,,
+server,,
+shell,,
+social,,
+social media,,
+software,,TRUE
+software development,,TRUE
+templates,,
+test-driven development,,
+time management,,
+unit testing,,
+visualization,,
+web application,,
+web development,,
+wireframes,,
+workflow,,
+writing code,,TRUE
